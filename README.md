@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @QuimCrous
+- 👋 Hi, I’m @QuimCrous 'Fullstack developer'
 
 - 💪 I'm a person very committed to work, with the desire to improve
 myself and continue learning. I'm interested in a position that allows
